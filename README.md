@@ -1,4 +1,4 @@
-### Data Science Projects
+# Data Science Projects
 
 
 ## [Project 1 - Exploratory Data Analysis](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/ExploratoryDataAnalysis.ipynb)
