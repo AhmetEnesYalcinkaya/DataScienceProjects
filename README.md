@@ -11,3 +11,5 @@
 existing conditions. Approximately 14.5% of the ‘Churn’ is ‘T’ label, and 84.5% of ‘nonchurn’ is ‘F’ label. 
 
  <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG" width="250"><img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/international_plan.PNG" width="250"><img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/many_service_calls.PNG" width="250">
+
+### [Exploratory Data Analysis 📊 Medium 😎](https://ahmetenesyalcinkaya.medium.com/pandas-k%C3%BCt%C3%BCphanesi-ile-ke%C5%9Fifsel-veri-analizi-311d13c3788e)
