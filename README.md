@@ -10,8 +10,4 @@
 - The customer churn dataset is an open-source dataset that contains 20 features and 3333 observations. The feature ‘Churn’ shows customer churn or non-churn based on
 existing conditions. Approximately 14.5% of the ‘Churn’ is ‘T’ label, and 84.5% of ‘nonchurn’ is ‘F’ label. 
 
- | <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG">  |
-
-<img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG">  |
-
-<img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG">  |
+ |<img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG">| <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG"> |
