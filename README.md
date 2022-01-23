@@ -12,5 +12,4 @@ existing conditions. Approximately 14.5% of the ‘Churn’ is ‘T’ label, an
 
 <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG" width="400">
 <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG" width="400">
-<img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/images/customer%20service%20calls.PNG" width="400">
 
