@@ -59,6 +59,6 @@ We started by cleaning our data. This section includes;
 - Labeling our graphs
 
 <p float="right">
-  <img src="https://github.com/AhmetEnesYalcinkaya/SalesAnalysis/blob/main/graph/graph.PNG" width="400" height="280">
-  <img src="https://github.com/AhmetEnesYalcinkaya/SalesAnalysis/blob/main/graph/graph1.PNG" width="450"> 
+  <img src="https://github.com/AhmetEnesYalcinkaya/SalesAnalysis/blob/main/graph/graph.PNG" width="480" height="280">
+  <img src="https://github.com/AhmetEnesYalcinkaya/SalesAnalysis/blob/main/graph/graph1.PNG" width="400"> 
 </p>
