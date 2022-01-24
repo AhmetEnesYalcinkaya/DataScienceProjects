@@ -29,7 +29,7 @@ This dataset contains a supermarket data in Turkish Language. There are more tha
 🔗 [Data source](https://www.kaggle.com/omercolakoglu/turkish-market-sales-dataset-with-9000items)
 
 
-## [Project 3- Sales Analysis](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/CustomerLifeTimeValue-CLTV/customer_lifetime_value.ipynb)
+## [Project 3- Sales Analysis](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/Analysis.ipynb)
 
 Our aim is create real world data science tasks completed using the Python Pandas library.
 
