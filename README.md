@@ -15,7 +15,7 @@ existing conditions. Approximately 14.5% of the ‘Churn’ is ‘T’ label, an
 ### [🔗 Exploratory Data Analysis 📊 Medium](https://ahmetenesyalcinkaya.medium.com/pandas-k%C3%BCt%C3%BCphanesi-ile-ke%C5%9Fifsel-veri-analizi-311d13c3788e)
 
 
-## [Project 2- Customer Life Time Value (CLTV)](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/ExploratoryDataAnalysis/ExploratoryDataAnalysis.ipynb)
+## [Project 2- Customer Life Time Value (CLTV)](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/CustomerLifeTimeValue-CLTV/customer_lifetime_value.ipynb)
 
 This dataset contains a supermarket data in Turkish Language. There are more than 
 - 600.000 sales rows, 
