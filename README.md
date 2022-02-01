@@ -29,7 +29,7 @@ This dataset contains a supermarket data in Turkish Language. There are more tha
 🔗 [Data source](https://www.kaggle.com/omercolakoglu/turkish-market-sales-dataset-with-9000items)
 
 
-## [Project 3- Sales Analysis](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/Analysis.ipynb)
+### [Project 3- Sales Analysis](https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/Analysis.ipynb)
 
 Our aim is create real world data science tasks completed using the Python Pandas library.
 
@@ -39,7 +39,7 @@ We started by cleaning our data. This section includes;
 - Removing rows based on a condition
 - Changing the type of columns
 
-## ❓ **Exploration Section** 
+### ❓ **Exploration Section** 
 
 - What was the best month for sales ?
 - Which city sold the most product ?
@@ -48,7 +48,7 @@ We started by cleaning our data. This section includes;
 - Which product sold the most ?
 
 
-## 📝 **To answer these questions we walk through many different pandas & matplotlib methods. They include:**
+### 📝 **To answer these questions we walk through many different pandas & matplotlib methods. They include:**
 
 - Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 - Adding columns
