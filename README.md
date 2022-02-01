@@ -59,6 +59,5 @@ We started by cleaning our data. This section includes;
 - Labeling our graphs
 
 <p float="center">
-  <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/graph/graph.PNG" width ="300">
-  <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/graph/graph1.PNG" width = "300"> 
+  <img src="https://github.com/AhmetEnesYalcinkaya/DataScienceProjects/blob/main/SalesAnalysis/graph/graph.PNG" width ="400">
 </p>
